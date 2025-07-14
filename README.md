@@ -18,7 +18,7 @@ Go to https://faucet.octra.network/
 
 Paste Wallet address & claim faucet
 
-Join Discord - https://discord.gg/gfAazqK9Xb
+
 
 Quest1 - Send Tokens
 Video Guide - https://x.com/CryptoTeluguO/status/1940750439034802461
