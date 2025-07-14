@@ -51,3 +51,11 @@ cp wallet.json.example wallet.json
 
 Step 3
 Then open the file: wallet.json
+
+✅Replace with your Pvt key & octra address u generated in previous guide
+
+{
+  "priv": "private key here",
+  "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "rpc": "https://octra.network"
+}
