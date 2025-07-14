@@ -41,3 +41,7 @@ Paste your test wallet details
 Replace address with any address from explorer - https://octrascan.io/
 
 python cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount 0.01
+
+Quest2 - encrypt & decrypt Tokens
+Step 1
+pip install -r requirements.txt
