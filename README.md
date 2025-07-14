@@ -45,3 +45,6 @@ python cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount
 Quest2 - encrypt & decrypt Tokens
 Step 1
 pip install -r requirements.txt
+
+Step 2
+cp wallet.json.example wallet.json
