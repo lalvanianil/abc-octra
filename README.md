@@ -59,3 +59,6 @@ Then open the file: wallet.json
   "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "rpc": "https://octra.network"
 }
+
+🔹 Step 4 : Send a test transaction
+
