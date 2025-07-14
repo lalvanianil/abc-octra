@@ -65,3 +65,10 @@ Then open the file: wallet.json
 Replace address with any address from explorer - https://octrascan.io/
 
 python cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount 0.01
+
+ython cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount 0.01
+✅Now run 4th cmd
+
+💻Blue Terminal will open
+
+✅type 4 for encrypton & 5 for decryption of tokens
