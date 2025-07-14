@@ -62,3 +62,5 @@ Then open the file: wallet.json
 
 🔹 Step 4 : Send a test transaction
 
+Replace address with any address from explorer - https://octrascan.io/
+
